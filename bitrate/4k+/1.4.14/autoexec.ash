@@ -87,7 +87,7 @@ writel 0xAB9D6C 0x3FA00000 #upper bound: 1.25
 #
 #2720x1520 60P 16:9
 #high quality
-writel 0xAB9E34 0x42960000 #75mbps
+writel 0xAB9E34 0x43480000 #200mbps
 writel 0xAB9E38 0x3F400000 #lower bound: 0.75
 writel 0xAB9E3C 0x3FA00000 #upper bound: 1.25
 #medium quality
